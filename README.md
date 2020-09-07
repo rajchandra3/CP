@@ -1,5 +1,11 @@
-# CodePark - Ask, Learn, Code, Share
+FAQs
 
-CodePark.in is down!
+1. Is this intentional
+- Yes it is put down intentionally
 
-This website is owned by [Raj Chandra](https://rajchandra.me) hosted on GitHub.
+2. Is is under maintenance
+- No
+
+3. Who owns this website
+- [Raj Chandra](https://rajchandra.me)
+
